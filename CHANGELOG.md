@@ -37,3 +37,4 @@ Conteúdo previsto para a primeira versão estável, **1.0.0**. A versão atual 
 - Recursos: playlists gratuitas recomendadas, documentação oficial, sites úteis e glossário.
 - Exemplos executáveis em `examples/`.
 - README, CONTRIBUTING, CODE_OF_CONDUCT, SECURITY, ROADMAP e licença MIT.
+- README reescrito apenas com texto, sem emojis.
