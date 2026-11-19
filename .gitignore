@@ -1,0 +1,29 @@
+# Segredos: NUNCA envie para o GitHub
+.env
+.env.*
+!.env.example
+
+# Ambiente virtual
+.venv/
+venv/
+env/
+
+# Arquivos gerados pelo Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Dados gerados pelo bot
+data/*.db
+data/*.db-journal
+logs/
+
+# Editores e sistema operacional
+.vscode/*
+!.vscode/extensions.json
+.idea/
+.DS_Store
+Thumbs.db

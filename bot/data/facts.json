@@ -1,0 +1,18 @@
+{
+  "facts": [
+    "O nome Python não vem da cobra, e sim do grupo de comédia britânico Monty Python.",
+    "O Python foi criado por Guido van Rossum, e sua primeira versão pública saiu em 1991.",
+    "Digite import this no Python para ler o Zen of Python, um conjunto de princípios da linguagem.",
+    "Em Python, a indentação (os espaços no começo da linha) faz parte da sintaxe: ela define os blocos de código.",
+    "Ada Lovelace escreveu, no século XIX, o que é considerado o primeiro algoritmo feito para ser executado por uma máquina.",
+    "Em 1947, a equipe de Grace Hopper encontrou uma mariposa presa em um computador e anotou o caso como o primeiro 'bug' real encontrado.",
+    "O Git foi criado por Linus Torvalds em 2005 para gerenciar o código do kernel Linux.",
+    "JSON significa JavaScript Object Notation, mas é usado por praticamente todas as linguagens, inclusive Python.",
+    "O famoso programa 'Hello, World!' ficou popular com o livro The C Programming Language, de 1978.",
+    "O SQLite guarda um banco de dados inteiro em um único arquivo e já vem incluído no Python.",
+    "Em Python, True e False são, na prática, os números 1 e 0: True + True resulta em 2.",
+    "O discord.py permite criar bots usando async e await, recursos de programação assíncrona do Python.",
+    "Listas em Python começam pelo índice 0, então o primeiro item de uma lista é lista[0].",
+    "Comentários em Python começam com #. O interpretador ignora tudo o que vem depois desse símbolo na linha."
+  ]
+}
