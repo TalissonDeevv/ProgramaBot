@@ -1,0 +1,5 @@
+# Dependências para DESENVOLVER e TESTAR o ProgramaBot.
+# Instale com: pip install -r requirements-dev.txt
+-r requirements.txt
+pytest==9.2.0
+pytest-asyncio==1.4.1
