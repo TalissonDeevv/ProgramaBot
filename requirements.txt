@@ -1,0 +1,5 @@
+# Dependências necessárias para EXECUTAR o ProgramaBot.
+# Versões fixadas para que todos os estudantes tenham o mesmo ambiente.
+# Python recomendado: 3.12 (mínimo: 3.10).
+discord.py==2.7.1
+python-dotenv==1.2.4
